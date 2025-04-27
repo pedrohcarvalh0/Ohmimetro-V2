@@ -44,7 +44,7 @@ static const char *color_names[10] = {"Preto","Marrom","Vermelho","Laranja","Ama
 // Algumas cores não apreseentam uma boa representação em RGB
 static const uint8_t colors[10][3] = {
     {0, 0, 0},       // Preto
-    {50, 20, 0},     // Marrom
+    {50, 10, 0},     // Marrom
     {50, 0, 0},      // Vermelho
     {50, 25, 0},     // Laranja
     {50, 50, 0},     // Amarelo
